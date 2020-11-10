@@ -1,7 +1,5 @@
 catalog:
   path: "/Users/dmedvedev/IdeaProjects/gridU_microservices_course/capstone_project/jcpenney_com-ecommerce_sample.csv"
-server:
-  port: 8181
 spring:
   application:
     name: catalog-service
